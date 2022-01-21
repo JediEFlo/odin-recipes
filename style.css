@@ -1,0 +1,38 @@
+/* Style.css to make a note in css do this*/ 
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+
+button {
+    background-color: orange;
+    font-size: 18px;
+ 
+}    
+ 
+.Paragraph {
+    background-color: lightpink;
+    font-family: 'Verdana' 'DejaVu Sans', sans-serif;
+
+}
+
+
+.Paragraph ~ .class2 {
+  font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 25%;
+}
+
+.tacolist {
+    color: salmon;
+    
+}
